@@ -87,6 +87,12 @@ chervinskij_ap 6
   
 Использование других идентификаторов, например, `Vitaly` или `Валюшка` **недопустимо**
 
+### Добавление корпоративного email в массив `email`:
+-  `chervinskij_ap@spbstu.ru`
+-  `tsuremichev.ga@edu.spbstu.ru`
+
+Использование других email, личных **недопустимо**   
+
 ### Сообщение в коммите раундов 2 и 3 аналогично, то есть
 - `git commit -m "chervinskij_ap"`
 - `git commit -m "tsuremichev.ga"`

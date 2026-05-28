@@ -7,7 +7,7 @@ int main()
 
   std::string emails[] {
   // добавлять корпоративные email здесь
-}
+};
 
 for (const auto & e: emails)
   {

@@ -3,7 +3,7 @@
 
 int main()
 {
-  std::cout << "Group  5130904/50003 emails << '\n';
+  std::cout << "Group  5130904/50003 emails" << '\n';
 
   std::string emails[] {
   // добавлять корпоративные email здесь
@@ -11,7 +11,7 @@ int main()
 
 for (const auto & e: emails)
   {
-    std::cout << e << '\n`;
+    std::cout << e << '\n';
   }
 
   return 0;

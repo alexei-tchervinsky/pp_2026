@@ -84,7 +84,9 @@ chervinskij_ap 6
 это идентификатор `в корпоративной почте`, например:
 - `chervinskij_ap`
 - `tsuremichev.ga`
+  
 Использование других идентификаторов, например, `Vitaly` или `Валюшка` **недопустимо**
+
 ### Сообщение в коммите раундов 2 и 3 аналогично, то есть
 - `git commit -m "chervinskij_ap"`
 - `git commit -m "tsuremichev.ga"`

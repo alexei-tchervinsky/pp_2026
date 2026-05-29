@@ -7,7 +7,27 @@ int main()
 
   std::string emails[] {
   // добавлять корпоративные email здесь
-  "eshilyurt.m@edu.spbstu.ru"
+  "eshilyurt.m@edu.spbstu.ru",
+  "maerchuk.da@edu.spbstu.ru",
+  "skorohod.av@edu.spbstu.ru",
+  "erohova.mn@edu.spbstu.ru",
+  "tegelekova.a@edu.spbstu.ru",
+  "egorova.di@edu.spbstu.ru",
+  "ryzlejtseva.oe@edu.spbstu.ru",
+  "golovach.ya@edu.spbstu.ru",
+  "kabishev.da@edu.spbstu.ru",
+  "altynbaeva.af@edu.spbstu.ru",
+  "usmanov.di@edu.spbstu.ru",
+  "fomina.vk@edu.spbstu.ru",
+  "volkov.av@spbstu.ru",
+  "malevanaya.ms@edu.spbstu.ru",
+  "yuriev.dl@edu.spbstu.ru",
+  "koropov.vo@edu.spbstu.ru",
+  "chervinskij_ap@spbstu.ru",
+  "tsuremichev.ga@edu.spbstu.ru",
+  "tomilova2.em@edu.spbstu.ru",
+  "barzhin.yaa@edu.spbstu.ru",
+  "rtitshev.gs@edu.spbstu.ru",
 };
 
 for (const auto & e: emails)
@@ -17,3 +37,4 @@ for (const auto & e: emails)
 
   return 0;
 }
+

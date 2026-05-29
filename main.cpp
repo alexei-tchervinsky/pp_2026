@@ -7,10 +7,13 @@ int main()
 
   std::string emails[] {
   // добавлять корпоративные email здесь
-  "koropov.vo@edu.spbstu.ru"
+  "koropov.vo@edu.spbstu.ru",
+  "chervinskij_ap@spbstu.ru",
+  "tsuremichev.ga@edu.spbstu.ru",
+  "barzhin.yaa@edu.spbstu.ru",
 };
 
-for (const auto & e: emails)
+  for (const auto &e : emails)
   {
     std::cout << e << '\n';
   }

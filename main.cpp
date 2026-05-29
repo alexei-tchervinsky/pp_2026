@@ -11,6 +11,7 @@ int main()
   "chervinskij_ap@spbstu.ru",
   "tsuremichev.ga@edu.spbstu.ru",
   "barzhin.yaa@edu.spbstu.ru",
+  "rtitshev.gs@edu.spbstu.ru",
 };
 
   for (const auto &e : emails)

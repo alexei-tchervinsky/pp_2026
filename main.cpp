@@ -5,9 +5,11 @@ int main()
 {
   std::cout << "Group  5130904/50003 emails" << '\n';
 
-  std::string emails[]{
-      // добавлять корпоративные email здесь
-      "tsuremichev.ga@edu.spbstu.ru"};
+  std::string emails[] {
+  // добавлять корпоративные email здесь
+  "chervinskij_ap@spbstu.ru",
+  "tsuremichev.ga@edu.spbstu.ru"
+};
 
   for (const auto &e : emails)
   {

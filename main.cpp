@@ -7,6 +7,7 @@ int main()
 
   std::string emails[] {
   // добавлять корпоративные email здесь
+  "golovach.ya@edu.spbstu.ru",
   "kabishev.da@edu.spbstu.ru",
   "altynbaeva.af@edu.spbstu.ru",
   "usmanov.di@edu.spbstu.ru",
@@ -20,6 +21,7 @@ int main()
   "tomilova2.em@edu.spbstu.ru",
   "barzhin.yaa@edu.spbstu.ru",
   "rtitshev.gs@edu.spbstu.ru",
+
 };
 
   for (const auto & e : emails)

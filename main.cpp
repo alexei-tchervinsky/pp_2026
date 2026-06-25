@@ -29,7 +29,8 @@ int main()
   "barzhin.yaa@edu.spbstu.ru",
   "rtitshev.gs@edu.spbstu.ru",
   "dvoretskij2.an@edu.spbstu.ru",
-   "chervinskij_ap@spbstu.ru",
+  "chervinskij_ap@spbstu.ru",
+  "aleksandridi.ka@edu.spbstu.ru"
 };
 
 for (const auto & e: emails)
